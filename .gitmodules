@@ -1,0 +1,3 @@
+[submodule "GCube_CNCUSB_Pendant"]
+	path = GCube_CNCUSB_Pendant
+	url = git@github.com:Mikwind/GCube_CNCUSB_Pendant.git
