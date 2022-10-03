@@ -1,0 +1,5 @@
+1 white -> GND (vibr motor GND)
+7 green -> GND
+6 blue -> 3.3v
+5 red -> orange -> DATA
+4 yellow -> brown -> 5V (vibr motor pow)
